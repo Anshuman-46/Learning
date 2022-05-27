@@ -18,7 +18,7 @@ public class Guess_The_number {
 			
 			if(myNumber == userNumber)
 			{
-				System.out.println("MOJ KARDI !! CORRECT NUMBER ");
+				System.out.println("SAME NUMBER ");
 				break;
 			}
 			
