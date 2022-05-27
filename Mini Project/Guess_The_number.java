@@ -7,7 +7,6 @@ public class Guess_The_number {
 		Scanner sc = new Scanner (System.in);
 		
 		int myNumber=(int)(Math.random()*100);
-//		System.out.println(myNumber);
 		
 		int userNumber = 0;
 		
